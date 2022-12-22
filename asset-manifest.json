@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Line_Analysis/static/css/main.51f843d8.css",
+    "main.js": "/Line_Analysis/static/js/main.96ed5c8f.js",
+    "static/js/787.0420ccf9.chunk.js": "/Line_Analysis/static/js/787.0420ccf9.chunk.js",
+    "static/media/chat4.png": "/Line_Analysis/static/media/chat4.f0e400cf1e539805cce8.png",
+    "static/media/Maika.png": "/Line_Analysis/static/media/Maika.e0b4b93caed0793b0b77.png",
+    "static/media/background5.png": "/Line_Analysis/static/media/background5.8426320dc9afa762d6f7.png",
+    "static/media/chat5.png": "/Line_Analysis/static/media/chat5.9428123fb734aaa4a387.png",
+    "static/media/Joanne.png": "/Line_Analysis/static/media/Joanne.6813ed5636ef3e1ea5ef.png",
+    "static/media/chat1.png": "/Line_Analysis/static/media/chat1.8e36314bcde9a9ad5584.png",
+    "static/media/Mia.png": "/Line_Analysis/static/media/Mia.7aacbb95925ab652148c.png",
+    "static/media/chat2.png": "/Line_Analysis/static/media/chat2.bafba04aadf6d6292a3d.png",
+    "static/media/chat3.png": "/Line_Analysis/static/media/chat3.859eb7240b78655db83f.png",
+    "index.html": "/Line_Analysis/index.html",
+    "main.51f843d8.css.map": "/Line_Analysis/static/css/main.51f843d8.css.map",
+    "main.96ed5c8f.js.map": "/Line_Analysis/static/js/main.96ed5c8f.js.map",
+    "787.0420ccf9.chunk.js.map": "/Line_Analysis/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f843d8.css",
+    "static/js/main.96ed5c8f.js"
+  ]
+}
